@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@656&family=Noto+Sans+Thai:wght@100..900&display=swap');
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: #aee1e1;
+  width: 50px;
+  margin: 70px auto 70px auto;
+}
